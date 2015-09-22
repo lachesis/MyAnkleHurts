@@ -1,3 +1,7 @@
+---
+title: My Ankle Hurts
+---
+
 My Ankle Hurts
 --------------
 * Take some Aleve
